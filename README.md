@@ -6,8 +6,8 @@ The Loan Qualifier Appliacation is a Python command-line interface (CLI) applica
 
 ## Technologies
 
-Python 3.7 or later
-Fire 0.4.0 or alter
+Python 3.7 or later;
+Fire 0.4.0 or alter;
 Questionary 1.9.1 or later
 pathlib
 
