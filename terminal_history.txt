@@ -1,0 +1,50 @@
+  347  cd cATM
+  348  get clone git@github.com:VadimYermak/cATM.git
+  349  conda acteivate dev
+  350  pwd
+  351  ls
+  352  cd Onedrive
+  353  ls
+  354  cd 'рабочий стол'
+  355  ls
+  356  cd bootcamp
+  357  ls
+  358  cd loan_qualifier_app
+  359  ls
+  360  git clone git@github.com:VadimYermak/Challange-02-Fintech.git
+  361  import fire
+  362  conda activate dev
+  363  jupyterlab
+  364  conda jupyter lab
+  365  conda jupyterlab
+  366  jupyterlab
+  367  jupyter notebook
+  368  jupyterlab
+  369  jupyter lab
+  370  jupyter lab
+  371  import quetionary
+  372  conda activate dev
+  373  import questionary
+  374  import fire
+  375  pwd
+  376  ls
+  377  cd onedrive
+  378  ls
+  379  cd 'рабочий стол'
+  380  ls
+  381  cd bootcamp
+  382  ls
+  383  cd loan_qualifier_app
+  384  ls
+  385  git status
+  386  git add*
+  387  cd challange-02-fintech
+  388  ls
+  389  git status
+  390  git add*
+  391  git add.
+  392  git --help
+  393  git add
+  394  git commit -m "added save func"
+  395  git push
+  396  history 50 > terminal_history.txt

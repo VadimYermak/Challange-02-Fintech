@@ -1,42 +1,33 @@
-# Loan Qualifier Applicetion
+# Project Title
 
-The Loan Qualifier Appliacation is a Python command-line interface (CLI) application that allows users to input their financial information and loan requirements and recieve a list of qualifing loans. The main problem that solve this application, help individuals to find right financial instituion
+Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
 
 ---
 
 ## Technologies
 
-Python 3.7 or later;
-Fire 0.4.0 or alter;
-Questionary 1.9.1 or later
-pathlib
+Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
 
 ---
 
 ## Installation Guide
 
-1. Download and install Python 3.7 or later.
-2. Clone repository or download the source code as a zip file and exctract it.
-3. Open a terminal window and navigate to the project library.
-4. Install the required dependencies by running the command: 'pip install -r requirements.txt'
+In this section, you should include detailed installation notes containing code blocks and screenshots.
 
 ---
 
 ## Usage
 
-1. Open a terminal window and navigate to the project directory.
-2. Run the command: 'python app.py'.
-3. Answer the questions about your financail situation and loan requirements.
-4. If you quailify for any loans, you will promted to save the results as CSV file.
-5. If you choose to save the results, enter the file path where you want to save the CSV file.
+This section should include screenshots, code blocks, or animations explaining how to use your project.
 
 ---
 
 ## Contributors
 
-Vadim Yermak (vadik.ermak@gmail.com)
+In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
 
 ---
 
 ## License
-Licence
+
+When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
