@@ -19,7 +19,7 @@ Pathlib
 2.Clone the repository or download the source code as a zip file and extract it.
 3.Open a terminal window and navigate to the project directory.
 
-## Usage
+# Usage
 
 1.Open a terminal window and navigate to the project directory.
 2.Run the command: python app.py
