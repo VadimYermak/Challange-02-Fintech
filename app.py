@@ -111,7 +111,7 @@ def save_qualifying_loans(qualifying_loans):
     save_qualifying_loans = questionary.text("Do you want to save qualifying loans sa a CSV file?").ask()
                       
     if save_qualifying_loans == "y":
-       file_path = input("Enter the file path where you want to save the CSV file:")
+       file_path = questionary.text("Enter the file path where you want to save the CSV file:").ask()
     
     with open(file_path, "w", newline="") as csvfile:
         csvwriter = csvwriter(csvfile)
