@@ -21,7 +21,7 @@ Pathlib
 
 ## Usage
 
-1.Opena terminal window and navigate to the project directory.
+1.Open terminal window and navigate to the project directory.
 2.Run the command: python app.py
 3.Answer the questions about your financial situation and loan requirements.
 4.If you qualify for any loans, you will be promted to save the results as a CSV file.
