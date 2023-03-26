@@ -1,33 +1,39 @@
-# Project Title
+# Loan Qualifier  Application
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+The Loan Quailifier Application is a Python command-line interface (CLI) application that allows users to input financial information and loan requirements and receive a list of qualifying loans. The main problem that solve this application is finding the right loan that fit your financial situation.
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+Python 3.7 or later
+Fire 0.4.0 or later
+Questionary 1.9.0 or later
+Pathlib
 
 ---
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
-
----
+1.Download and install Python 3.7 or later on your computer.
+2.Clone the repository or download the source code as a zip file and extract it.
+3.Open a terminal window and navigate to the project directory.
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
-
+1.Open a terminal window and navigate to the project directory.
+2.Run the command: python app.py
+3.Answer the questions about your financial situation and loan requirements.
+4.If you qualify for any loans, you will be prompted to save the results as a CSV file.
+5.If you choose to save the results, enter the file path where you want to save the CSV file.
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+Vadim Yermak(vadik.ermak@gmail.com)
 
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+Licence
