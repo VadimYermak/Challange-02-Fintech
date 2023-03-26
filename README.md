@@ -20,6 +20,7 @@ Pathlib
 3.Open a terminal window and navigate to the project directory.
 
 ## Usage
+
 1.Opena terminal window and navigate to the project directory.
 2.Run the command: python app.py
 3.Answer the questions about your financial situation and loan requirements.
